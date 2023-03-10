@@ -1,2 +1,2 @@
-﻿55975
-C:/Users/peybo/OneDrive/Escritorio/GODOT/Godot_v3.5.2-stable_mono_win64/Godot_v3.5.2-stable_mono_win64.exe
+﻿60026
+C:/Users/hugop/Documents/GRADO3/QUATRI-2/Proyecto-PSW-DDS/godot/Godot_v3.5.2-stable_mono_win64/Godot_v3.5.2-stable_mono_win64/Godot_v3.5.2-stable_mono_win64.exe
