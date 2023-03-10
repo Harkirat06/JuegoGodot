@@ -20,4 +20,5 @@ public class Node2D : Godot.Node2D
 //  }
 
 	//A VER SI FUNCIONA
+	//SI FUNCIONA UN SALUDO : DANI
 }
